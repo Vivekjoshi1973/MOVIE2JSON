@@ -1,4 +1,4 @@
-# 🎬 CineSage — Movie Info Extraction Tool
+# 🎬 MOVIE2JSON — Movie Info Extraction Tool
 
 Turn any movie paragraph into structured JSON data using AI. Powered by Mistral AI.
 
@@ -17,8 +17,8 @@ Turn any movie paragraph into structured JSON data using AI. Powered by Mistral 
 
 ```bash
 # Clone
-git clone https://github.com/Vivekjoshi1973/CineSage.git
-cd CineSage
+git clone https://github.com/Vivekjoshi1973/MOVIE2JSON.git
+cd MOVIE2JSON
 
 # Install
 pip install -r requirements.txt
